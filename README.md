@@ -6,7 +6,7 @@ This project aims to create a user-friendly tool for visualizing and exploring P
 
 ## Learning Outcomes
 
-1. **Data Extraction and Processing:**
+1. ##Data Extraction and Processing:
    - Utilize Clone GitHub to extract data from the Phonepe Pulse repository.
    - Employ Python libraries, especially Pandas, for effective data pre-processing.
 
@@ -28,7 +28,7 @@ This project aims to create a user-friendly tool for visualizing and exploring P
 
 ## Getting Started
 
-### Clone the Repository
+## Clone the Repository
 ```bash
 git clone https://github.com/yourusername/phonepe-pulse-dashboard.git
 Install Dependencies
@@ -46,21 +46,21 @@ Copy code
 python app.py
 Access the dashboard at http://localhost:8501
 
-Technologies Used
-Python
-Pandas
-MySQL
-Streamlit
-Plotly
-Project Structure
-data_extraction: Contains scripts for data extraction.
-database_management: Includes database schema and connection setup.
-visualization: Includes code for creating visualizations and the Streamlit app.
-Contributors
-Your Name
-Contributor 1
-Contributor 2
-License
+###Technologies Used
+###Python
+###Pandas
+###MySQL
+###Streamlit
+###Plotly
+###Project Structure
+###data_extraction: Contains scripts for data extraction.
+###database_management: Includes database schema and connection setup.
+###visualization: Includes code for creating visualizations and the Streamlit app.
+###Contributors
+###Your Name
+###Contributor 1
+###Contributor 2
+###License
 This project is licensed under the MIT License.
 
 Acknowledgments
