@@ -25,19 +25,22 @@
 - Launch the frontend application: npm start
 - Open your browser and go to http://localhost:3000 to access the data visualization tool.
 
-#Features
+# Features
 
 - Interactive charts for transaction trends.
 - User-friendly interface for exploring different data dimensions.
 - Real-time updates based on selected filters.
  
-#Contributing
+# Contributing
 
  Contributions are welcome! Please follow the contribution guidelines to contribute to the project.
 
-#License
+# License
 
  This project is licensed under the MIT License.
+ 
+ # contact
+   Email Id : kalaichem998@gmail.com
 
 
 
